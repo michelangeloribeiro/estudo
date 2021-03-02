@@ -10,7 +10,7 @@ Entendendo o fluxo de trabalho
 - git status (verificar a situação)
 - git pull (trazer os arquivos do respositório)
 - git log
-- git branch
+- git branch (visualizar as branchs)
 - git checkout -b html - cria branch
 - git checkout nomeDaBranch - muda de branch
 - git push origin nomeDaBranch
